@@ -185,4 +185,5 @@ lhg-fullstack/
 | [lhg-kids-code](https://github.com/lhg-plugs/lhg-kids-code) | 少儿编程备课助手：知识点→趣味教案→示例→课堂游戏→练习（需成人审核） | `/plugin install lhg-kids-code@lhg-plugs` |
 | [lhg-earnings](https://github.com/lhg-plugs/lhg-earnings) | 财报分析助手：财报丢进来→指标解读→风险清单（非投资建议） | `/plugin install lhg-earnings@lhg-plugs` |
 | [lhg-landing-page](https://github.com/lhg-plugs/lhg-landing-page) | 落地页专家：一句话生成高转化营销落地页（卖点→线框→实现→转化自检→部署） | `/plugin install lhg-landing-page@lhg-plugs` |
-| [lhg-solopreneur](https://github.com/lhg-plugs/lhg-solopreneur) | 独立开发专家：想法验证→MVP界定→定价→冷启动一条龙（合规通用框架） | `/plugin install lhg-solopreneur@lhg-plugs` |
+| [lhg-solopreneur](https://github.com/lhg-plugs/lhg-solopreneur)dummy | 独立开发专家：想法验证→MVP界定→定价→冷启动一条龙（合规通用框架） | `/plugin install lhg-solopreneur@lhg-plugs` |
+| [lhg-tech-blog](https://github.com/lhg-plugs/lhg-tech-blog) | 技术博客专家：技术主题一句话成文，代码示例自动校验 | `/plugin install lhg-tech-blog@lhg-plugs` |
