@@ -180,3 +180,4 @@ lhg-fullstack/
 | [lhg-wedding](https://github.com/lhg-plugs/lhg-wedding) | 婚礼策划专家：预算→流程→供应商清单→当天执行手册 | `/plugin install lhg-wedding@lhg-plugs` |
 | [lhg-fund-dca](https://github.com/lhg-plugs/lhg-fund-dca) | 基金定投助手：目标→定投计划→筛选框架→纪律执行（非投资建议） | `/plugin install lhg-fund-dca@lhg-plugs` |
 | [lhg-auto-test](https://github.com/lhg-plugs/lhg-auto-test) | 自动测试专家：一句话生成测试用例与可执行脚本 | `/plugin install lhg-auto-test@lhg-plugs` |
+| [lhg-kids-code](https://github.com/lhg-plugs/lhg-kids-code) | 少儿编程备课助手：知识点→趣味教案→示例→课堂游戏→练习（需成人审核） | `/plugin install lhg-kids-code@lhg-plugs` |
